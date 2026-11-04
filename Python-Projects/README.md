@@ -33,3 +33,9 @@ Developed a Python-based data analysis project focused on examining social media
 Developed a Python-based restaurant management system incorporating speech-to-text ordering, table reservations, menu pricing, and promotional combo deals. Designed programming logic to process customer orders, manage reservation requests, and calculate order totals based on menu selections and available discounts. Demonstrated practical applications of programming and automation in a restaurant environment.
 
 **Skills:** Python, Speech-to-Text Integration, Functions, Conditional Logic, Input Validation, Automation, Algorithm Design
+
+### 6. Wacky's Wonderland Amusement Park Management System
+
+Developed a Python-based amusement park management system incorporating a customer loyalty program and park amenities. Designed programming logic to manage customer rewards, process loyalty benefits, and organize information related to available attractions and services. Applied conditional statements, functions, and data management techniques to simulate amusement park operations and improve the customer experience.
+
+**Skills:** Python, Functions, Conditional Logic, Data Management, Customer Loyalty Systems, Algorithm Design, Problem-Solving
